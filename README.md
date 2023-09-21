@@ -17,26 +17,17 @@ Topics will be randomly allocated to groups of 2 students. Both of you should co
 
 | Workshop | Focus | Topic | Resources | 
 |---------|-------|-----------|-----------|
-| 01 | Data wrangling | Creating web APIs with plumber | [a](https://www.rplumber.io/), [b](https://github.com/rstudio/cheatsheets/raw/master/plumber.pdf) |
-| 02 | Data wrangling | Cleaning dirty data with janitor | [a](https://github.com/sfirke/janitor), [b](http://sfirke.github.io/janitor/articles/janitor.html) |
-| 03 | Data wrangling | Categorical variables with forcats | [a](https://forcats.tidyverse.org/), [b](https://r4ds.had.co.nz/factors.html) |
-| 04 | Data wrangling | Dates and times with lubridate | [a](https://lubridate.tidyverse.org/), [b](https://r4ds.had.co.nz/dates-and-times.html) |
-| 05 | Data wrangling | Wrangling data at scale with data.table | [a](https://rdatatable.gitlab.io/data.table/), [b](https://github.com/tidyverse/dtplyr) |
-| 06 | Data wrangling | String manipulation with stringr | [a](http://www.r-datacollection.com/), [b](https://github.com/rstudio/cheatsheets/raw/master/strings.pdf) |
-| 07 | Visualization | Network graphs with ggraph and tidygraph | [a](https://ggraph.data-imaginist.com/), [b](https://tidygraph.data-imaginist.com/) |
-| 08 | Visualization | Interactive maps with leaflet | [a](https://rstudio.github.io/leaflet/), [b](https://leafletjs.com/reference-1.7.1.html) |
-| 09 | Visualization | Interactive graphics with plotly | [a](https://github.com/ropensci/plotly), [b](https://plotly.com/r/) |
-| 10 | Data analysis | Text analysis with quanteda | [a](https://quanteda.io/), [b](https://joss.theoj.org/papers/10.21105/joss.00774) |
-| 11 | Data analysis | Tidying text data with tidytext | [a](https://www.tidytextmining.com/), [b](https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html) |
-| 12 | Data analysis | Coordinate reference systems with sf | [a](https://geocompr.robinlovelace.net/spatial-class.html#crs-intro), [b](https://r-spatial.github.io/sf/index.html) |
-| 13 | Data analysis | Geocoding with sf | [a](https://r-spatial.github.io/sf/index.html), [b](https://lost-stats.github.io/Geo-Spatial/geocoding.html) |
-| 14 | Data analysis | Temporal data with tsibble and fable | [a](https://tsibble.tidyverts.org/), [b](https://fable.tidyverts.org/) |
-| 15 | Programming | Measuring and improving performance | [a](https://adv-r.hadley.nz/perf-measure.html), [b](https://adv-r.hadley.nz/perf-improve.html) |
-| 16 | Programming | Parallel programming with future | [a](https://raw.githack.com/uo-ec607/lectures/master/12-parallel/12-parallel.html), [b](https://cran.r-project.org/web/packages/future/vignettes/future-1-overview.html) |
-| 17 | Workflow | Ensuring reproducibility with renv | [a](https://rstudio.github.io/renv/), [b](https://rstudio.github.io/renv/articles/renv.html) |
-| 18 | Workflow | Establishing pipelines with targets | [a](https://docs.ropensci.org/targets/), [b](https://books.ropensci.org/targets/) |
-| 19 | Workflow | Creating R packages | [a](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/r-package/), [b](https://r-pkgs.org/) |
-| 20 | Publication | Publishing with Quarto | [a](https://quarto.org/), [b](https://github.com/mcanouil/awesome-quarto) |
-| 21 | Publication | Publishing websites with GitHub pages | [a](https://pages.github.com/), [b](https://docs.github.com/en/pages/quickstart) |
+| 01 | Wrangling | Cleaning and wrangling data with janitor and forcats | [a](https://sfirke.github.io/janitor/index.html), [b](https://forcats.tidyverse.org/) |
+| 02 | Wrangling | Wrangling data at scale with data.table | [a](https://rdatatable.gitlab.io/data.table/), [b](https://github.com/tidyverse/dtplyr) |
+| 03 | Wrangling | Dates and times with lubridate | [a](https://lubridate.tidyverse.org/), [b](https://r4ds.had.co.nz/dates-and-times.html) |
+| 04 | Wrangling | Advanced string processing with stringi and stringr | [a](https://stringr.tidyverse.org/), [b](https://stringi.gagolewski.com/) |
+| 05 | Analysis | Temporal data with tsibble and fable | [a](https://tsibble.tidyverts.org/), [b](https://fable.tidyverts.org/) |
+| 06 | Analysis | Text analysis with quanteda | [a](https://quanteda.io/), [b](https://joss.theoj.org/papers/10.21105/joss.00774) |
+| 07 | Analysis | Geospatial analysis with sf | [a](https://r-spatial.github.io/sf/index.html), [b](https://lost-stats.github.io/Geo-Spatial/geocoding.html) |
+| 08 | Visualization | Presentation-ready tables with gt and gtExtra | [a](https://gt.rstudio.com/), [b](https://jthomasmock.github.io/gtExtras/) |
+| 09 | Visualization | Interactive maps with leaflet | [a](https://github.com/ropensci/plotly), [b](https://leafletjs.com/reference-1.7.1.html) |
+| 10 | Visualization | Interactive graphics with plotly | [a](https://github.com/plotly/plotly.R), [b](https://plotly.com/r/) |
+| 11 | Workflow | Ensuring reproducibility with renv | [a](https://rstudio.github.io/renv/), [b](https://rstudio.github.io/renv/articles/renv.html) |
+| 12 | Workflow | Tidy modeling with tidymodels | [a](https://www.tidymodels.org/), [b](https://www.tmwr.org/) |
 
 
