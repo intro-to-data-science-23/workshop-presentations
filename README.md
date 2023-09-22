@@ -1,6 +1,6 @@
 # Workshop presentations
 
-Please publish your presentation materials in a repo that you create in our workshop organization at https://github.com/intro-to-data-science-22-workshop. There's a naming convention for the repos, which should indicate the workshop number (see below), your name (one group member only), and a very brief description, all lowercase and separated by dashes. E.g.: `01-topic-lastname1-lastname2/`. For more information about your task, check out the document `workshop-guidelines.pdf` in this repository.
+Please publish your presentation materials in a repo that you create in our workshop organization at https://github.com/intro-to-data-science-23-workshop. There's a naming convention for the repos, which should indicate the workshop number (see below), your name (one group member only), and a very brief description, all lowercase and separated by dashes. E.g.: `01-topic-lastname1-lastname2/`. For more information about your task, check out the document `workshop-guidelines.pdf` in this repository.
 
 ## R Markdown
 
